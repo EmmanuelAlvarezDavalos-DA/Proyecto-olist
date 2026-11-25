@@ -13,3 +13,4 @@ FROM orders;
 SELECT COUNT(DISTINCT customer_id) AS customer_ids,
        COUNT(DISTINCT customer_unique_id) AS clientes_unicos
 FROM customers;
+
