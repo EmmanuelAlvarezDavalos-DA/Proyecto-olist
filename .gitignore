@@ -1,0 +1,8 @@
+# Datos (se descargan desde Kaggle)
+data/
+
+# Entornos y archivos del sistema
+.venv/
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
